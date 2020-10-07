@@ -1,0 +1,13 @@
+to create a repository on the command line:
+git init
+git add readme.md
+git commit -m "first commit"
+git remote add origin https://github.com/Fodzilla/project_name.git
+git push -u origin master
+
+to push an existing rpository from the command line:
+git remote add origin https://github.com/Fodzilla/project_name.git
+git push -u origin master
+
+to list the remote:
+get remote -v
