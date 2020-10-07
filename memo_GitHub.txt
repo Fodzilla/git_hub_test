@@ -9,5 +9,8 @@ to push an existing rpository from the command line:
 git remote add origin https://github.com/Fodzilla/project_name.git
 git push -u origin master
 
-to list the remote:
+to list the existing remote connexions:
 get remote -v
+
+to pull from github:
+git pull origin master
