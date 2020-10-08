@@ -20,3 +20,7 @@ git checkout -b name of the newbranch
 
 pull the branch on github:
 git pull origin + name of the branch
+
+to get code from github:
+- create a new folder with no git connexions then from this directory:
+git clone + the git url
