@@ -5,12 +5,12 @@ git commit -m "first commit"
 git remote add origin https://github.com/Fodzilla/project_name.git
 git push -u origin master
 
-to push an existing rpository from the command line:
+to push an existing repository from the command line:
 git remote add origin https://github.com/Fodzilla/project_name.git
 git push -u origin master
 
 to list the existing remote connexions:
-get remote -v
+git remote -v
 
 to pull from github:
 git pull origin master
