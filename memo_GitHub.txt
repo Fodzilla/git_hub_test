@@ -14,3 +14,9 @@ git remote -v
 
 to pull from github:
 git pull origin master
+
+to create a new branch:
+git checkout -b name of the newbranch
+
+pull the branch on github:
+git pull origin + name of the branch
